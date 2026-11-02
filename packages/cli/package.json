@@ -42,12 +42,12 @@
     "@aidran/db": "workspace:*",
     "@clack/prompts": "^0.8.0",
     "drizzle-orm": "^0.45.2",
-    "pg": "^8.13.0",
+    "pg": "^8.23.1",
     "picocolors": "^1.1.0"
   },
   "devDependencies": {
     "@types/node": "^22.9.0",
-    "@types/pg": "^8.11.10",
+    "@types/pg": "^8.23.1",
     "typescript": "^5.7.2"
   },
   "publishConfig": {
